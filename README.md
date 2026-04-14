@@ -1,4 +1,4 @@
-# 👋 Hey, I'm K  
+# 👋 Hey, I'm Krish Pithava
 
 🚀 **Full Stack Developer | SaaS Builder | Tech Enthusiast**  
 💡 Building scalable web apps & digital products  
